@@ -1,5 +1,5 @@
 -- Load external scriptsw
-loadstring(game:HttpGet("https://pastebin.com/raw/xDXkjWKk",true))()
+--loadstring(game:HttpGet("https://pastebin.com/raw/xDXkjWKk",true))()
 loadstring(game:HttpGet("https://pastebin.com/raw/XuVPGayq",true))()
 
 -- Function to handle character setup for any player
